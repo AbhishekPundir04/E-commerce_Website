@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+  margin-top: 1rem;
+  padding: 0 1rem;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-links a {
+  color: white;
+  margin-left: 1rem;
+}
+
+.navbar .icon {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #eeeeee;
+}
